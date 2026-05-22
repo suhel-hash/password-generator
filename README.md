@@ -1,2 +1,12 @@
-# password-generator
-A simple password generator built using Python
+# Password Generator
+
+A beginner Python project that generates secure random passwords.
+
+## Features
+- Custom password length
+- Random letters
+- Numbers
+- Special characters
+
+## Technology Used
+- Python
